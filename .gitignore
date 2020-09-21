@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.env
+
+__pycache__
+
+cache/*.csv
+reports/*.csv
+reports/*.xlsx
+reports/*/*.csv
+reports/*/*.xlsx
+
+credentials.json
+token.pickle

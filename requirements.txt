@@ -1,0 +1,9 @@
+numpy
+pandas
+mysql-connector-python
+python-dotenv
+psycopg2-binary
+openpyxl
+google-api-python-client
+google-auth-oauthlib
+jinja2
